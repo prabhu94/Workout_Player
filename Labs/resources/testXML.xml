@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercises>
+  <exercise>
+    <exName>Step</exName>
+    <level>basic</level>
+    <repTime>30</repTime>
+    <repCount>1</repCount>
+    <calories>250</calories>
+    <image>step30.mp4</image>
+    <notes>This is an intense cardio workout. It needs a stepper with or without risers.</notes>
+  </exercise>
+  <exercise>
+    <exName>Side Crunches</exName>
+    <level>basic</level>
+    <repTime>1</repTime>
+    <repCount>20</repCount>
+    <calories>15</calories>
+    <image>side-crunch.mp4</image>
+    <notes>This exercise strengthens obliques</notes>
+  </exercise>
+  <exercise>
+    <exName>Crunches</exName>
+    <level>basic</level>
+    <repTime>1</repTime>
+    <repCount>20</repCount>
+    <calories>15</calories>
+    <image>crunch.jpg</image>
+    <notes>This exercise tones up abs</notes>
+  </exercise>
+  <exercise>
+    <exName>Plank</exName>
+    <level>basic</level>
+    <repTime>1</repTime>
+    <repCount>1</repCount>
+    <calories>25</calories>
+    <image>plank.jpg</image>
+    <notes>This exercise strengthens core</notes>
+  </exercise>
+  <exercise>
+    <exName>Bicep-curls</exName>
+    <level>basic</level>
+    <repTime>1</repTime>
+    <repCount>20</repCount>
+    <calories>10</calories>
+    <image>bicep-curls.jpg</image>
+    <notes>This is a strength exercise to tone and build biceps</notes>
+  </exercise>
+  <exercise>
+    <exName>Squats</exName>
+    <level>basic</level>
+    <repTime>1</repTime>
+    <repCount>10</repCount>
+    <calories>20</calories>
+    <image>squats.jpg</image>
+    <notes>This exercise strengthens and tones glutes and quads</notes>
+  </exercise>
+  <exercise>
+    <exName>Crunches</exName>
+    <level>advanced</level>
+    <repTime>2</repTime>
+    <repCount>60</repCount>
+    <calories>60</calories>
+    <image>crunchBall.jpg</image>
+    <notes>This is an advanced exercise to be done with a swiss-ball to tone up abs and strengthen the core</notes>
+  </exercise>
+  <exercise>
+    <exName>Squats</exName>
+    <level>advanced</level>
+    <repTime>2</repTime>
+    <repCount>30</repCount>
+    <calories>20</calories>
+    <image>squatsWeights.jpg</image>
+    <notes>This is done with weights</notes>
+  </exercise>
+  <exercise>
+    <exName>Spin</exName>
+    <level>advanced</level>
+    <repTime>60</repTime>
+    <repCount>1</repCount>
+    <calories>350</calories>
+    <image>spinHour.mp4</image>
+    <notes>This is an intense cardio workout. It needs a spin-bike. This full routine has an hour long exercises on spin-bike.</notes>
+  </exercise>
+  <exercise>
+    <exName>Knee-crunches</exName>
+    <level>basic</level>
+    <repTime>1</repTime>
+    <repCount>20</repCount>
+    <calories>10</calories>
+    <image>knee-crunch.mp4</image>
+    <notes>Helps tone obliques and abs</notes>
+  </exercise>
+  <exercise>
+    <exName>Multiple crunches</exName>
+    <level>advanced</level>
+    <repTime>8</repTime>
+    <repCount>1</repCount>
+    <calories>50</calories>
+    <image>multi-crunch.mp4</image>
+    <notes>This has multiple types of crunches to workout your core. The full routing takes about 8 minutes.</notes>
+  </exercise>
+  <exercise>
+    <exName>Spin</exName>
+    <level>basic</level>
+    <repTime>30</repTime>
+    <repCount>1</repCount>
+    <calories>200</calories>
+    <image>spin30minutes.mp4</image>
+    <notes>This spin routine is 30 minutes long. Great for cardio workout</notes>
+  </exercise>
+</exercises>
