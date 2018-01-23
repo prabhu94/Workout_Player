@@ -1,3 +1,5 @@
+// Code provided by OOPJ Class at CMU
+
 package hw3;
 
 import javafx.scene.layout.StackPane;

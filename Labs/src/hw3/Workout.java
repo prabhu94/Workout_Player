@@ -1,6 +1,3 @@
-/* Name : Prabhat turlapati
-*  ID : sturlapa
-*/
 package hw3;
 
 import java.util.Arrays;
